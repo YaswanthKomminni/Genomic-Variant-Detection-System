@@ -29,7 +29,6 @@ python3
 >>> s.save_all()
 ```
 
-## Notes for evaluators
 - Emphasis is on correct usage of data structures, their reasoning and complexity
 - BloomFilter: O(k) insertion/check (k = number of hashes), memory efficient
 - PriorityQueue: O(log n) insert/pop
