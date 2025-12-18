@@ -1,0 +1,262 @@
+{
+  "VAR_1_mut": {
+    "disease": "CancerE",
+    "drug": "DrugA",
+    "risk_score": 0.63
+  },
+  "VAR_2_mut": {
+    "disease": "CancerC",
+    "drug": "DrugD",
+    "risk_score": 0.79
+  },
+  "VAR_3_mut": {
+    "disease": "CancerD",
+    "drug": "DrugC",
+    "risk_score": 0.61
+  },
+  "VAR_4_mut": {
+    "disease": "CancerD",
+    "drug": "DrugD",
+    "risk_score": 0.66
+  },
+  "VAR_5_mut": {
+    "disease": "CancerA",
+    "drug": "DrugA",
+    "risk_score": 0.84
+  },
+  "VAR_6_mut": {
+    "disease": "CancerC",
+    "drug": "DrugB",
+    "risk_score": 0.77
+  },
+  "VAR_7_mut": {
+    "disease": "CancerC",
+    "drug": "DrugA",
+    "risk_score": 0.77
+  },
+  "VAR_8_mut": {
+    "disease": "CancerA",
+    "drug": "DrugA",
+    "risk_score": 0.65
+  },
+  "VAR_9_mut": {
+    "disease": "CancerC",
+    "drug": "DrugA",
+    "risk_score": 0.77
+  },
+  "VAR_10_mut": {
+    "disease": "CancerC",
+    "drug": "DrugD",
+    "risk_score": 0.9
+  },
+  "VAR_11_mut": {
+    "disease": "CancerD",
+    "drug": "DrugC",
+    "risk_score": 0.75
+  },
+  "VAR_12_mut": {
+    "disease": "CancerA",
+    "drug": "DrugC",
+    "risk_score": 0.66
+  },
+  "VAR_13_mut": {
+    "disease": "CancerC",
+    "drug": "DrugF",
+    "risk_score": 0.65
+  },
+  "VAR_14_mut": {
+    "disease": "CancerD",
+    "drug": "DrugD",
+    "risk_score": 0.63
+  },
+  "VAR_15_mut": {
+    "disease": "CancerC",
+    "drug": "DrugF",
+    "risk_score": 0.77
+  },
+  "VAR_16_mut": {
+    "disease": "CancerF",
+    "drug": "DrugF",
+    "risk_score": 0.64
+  },
+  "VAR_17_mut": {
+    "disease": "CancerC",
+    "drug": "DrugA",
+    "risk_score": 0.87
+  },
+  "VAR_18_mut": {
+    "disease": "CancerC",
+    "drug": "DrugC",
+    "risk_score": 0.67
+  },
+  "VAR_19_mut": {
+    "disease": "CancerF",
+    "drug": "DrugB",
+    "risk_score": 0.9
+  },
+  "VAR_20_mut": {
+    "disease": "CancerE",
+    "drug": "DrugD",
+    "risk_score": 0.8
+  },
+  "VAR_21_mut": {
+    "disease": "CancerB",
+    "drug": "DrugC",
+    "risk_score": 0.62
+  },
+  "VAR_22_mut": {
+    "disease": "CancerD",
+    "drug": "DrugC",
+    "risk_score": 0.68
+  },
+  "VAR_23_mut": {
+    "disease": "CancerA",
+    "drug": "DrugA",
+    "risk_score": 0.71
+  },
+  "VAR_24_mut": {
+    "disease": "CancerF",
+    "drug": "DrugE",
+    "risk_score": 0.7
+  },
+  "VAR_25_mut": {
+    "disease": "CancerC",
+    "drug": "DrugC",
+    "risk_score": 0.81
+  },
+  "VAR_26_mut": {
+    "disease": "CancerB",
+    "drug": "DrugC",
+    "risk_score": 0.76
+  },
+  "VAR_27_mut": {
+    "disease": "CancerD",
+    "drug": "DrugF",
+    "risk_score": 0.61
+  },
+  "VAR_28_mut": {
+    "disease": "CancerB",
+    "drug": "DrugB",
+    "risk_score": 0.89
+  },
+  "VAR_29_mut": {
+    "disease": "CancerA",
+    "drug": "DrugB",
+    "risk_score": 0.88
+  },
+  "VAR_30_mut": {
+    "disease": "CancerD",
+    "drug": "DrugD",
+    "risk_score": 0.9
+  },
+  "VAR_31_mut": {
+    "disease": "CancerA",
+    "drug": "DrugD",
+    "risk_score": 0.61
+  },
+  "VAR_32_mut": {
+    "disease": "CancerC",
+    "drug": "DrugC",
+    "risk_score": 0.76
+  },
+  "VAR_33_mut": {
+    "disease": "CancerE",
+    "drug": "DrugD",
+    "risk_score": 0.88
+  },
+  "VAR_34_mut": {
+    "disease": "CancerF",
+    "drug": "DrugD",
+    "risk_score": 0.79
+  },
+  "VAR_35_mut": {
+    "disease": "CancerF",
+    "drug": "DrugA",
+    "risk_score": 0.68
+  },
+  "VAR_36_mut": {
+    "disease": "CancerD",
+    "drug": "DrugC",
+    "risk_score": 0.8
+  },
+  "VAR_37_mut": {
+    "disease": "CancerF",
+    "drug": "DrugD",
+    "risk_score": 0.77
+  },
+  "VAR_38_mut": {
+    "disease": "CancerA",
+    "drug": "DrugF",
+    "risk_score": 0.89
+  },
+  "VAR_39_mut": {
+    "disease": "CancerE",
+    "drug": "DrugA",
+    "risk_score": 0.82
+  },
+  "VAR_40_mut": {
+    "disease": "CancerB",
+    "drug": "DrugC",
+    "risk_score": 0.62
+  },
+  "VAR_41_mut": {
+    "disease": "CancerA",
+    "drug": "DrugB",
+    "risk_score": 0.61
+  },
+  "VAR_42_mut": {
+    "disease": "CancerB",
+    "drug": "DrugA",
+    "risk_score": 0.71
+  },
+  "VAR_43_mut": {
+    "disease": "CancerC",
+    "drug": "DrugE",
+    "risk_score": 0.61
+  },
+  "VAR_44_mut": {
+    "disease": "CancerF",
+    "drug": "DrugF",
+    "risk_score": 0.87
+  },
+  "VAR_45_mut": {
+    "disease": "CancerA",
+    "drug": "DrugB",
+    "risk_score": 0.7
+  },
+  "VAR_46_mut": {
+    "disease": "CancerB",
+    "drug": "DrugA",
+    "risk_score": 0.66
+  },
+  "VAR_47_mut": {
+    "disease": "CancerA",
+    "drug": "DrugE",
+    "risk_score": 0.87
+  },
+  "VAR_48_mut": {
+    "disease": "CancerE",
+    "drug": "DrugB",
+    "risk_score": 0.75
+  },
+  "VAR_49_mut": {
+    "disease": "CancerB",
+    "drug": "DrugB",
+    "risk_score": 0.63
+  },
+  "VAR_50_mut": {
+    "disease": "CancerE",
+    "drug": "DrugE",
+    "risk_score": 0.89
+  },
+  "VAR_51_mut": {
+    "disease": "CancerA",
+    "drug": "DrugD",
+    "risk_score": 0.74
+  },
+  "VAR_52_mut": {
+    "disease": "CancerA",
+    "drug": "DrugD",
+    "risk_score": 0.82
+  }
+}
