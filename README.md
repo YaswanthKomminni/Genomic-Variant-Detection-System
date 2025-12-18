@@ -37,8 +37,8 @@ python3
 - BST (unbalanced): average O(log n) insert/search for random data; worst-case O(n)
 
 ## Team contributions suggestion
-- Member 1: Bloom Filter + explanation slides
-- Member 2: Priority Queue + test cases
-- Member 3: Hash Table + JSON persistence
-- Member 4: BST + range query demonstration + README
+- Karthikeya: Bloom Filter + explanation slides
+- Sairam: Priority Queue + test cases
+- Mouliiswar: Hash Table + JSON persistence
+- Yaswanth: BST + range query demonstration + README
 
