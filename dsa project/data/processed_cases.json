@@ -1,0 +1,146 @@
+[
+  {
+    "patient": "Patient_A",
+    "variant": "VAR_1_mut",
+    "position": 1500,
+    "priority": 1
+  },
+  {
+    "patient": "Patient_B",
+    "variant": "VAR_10_mut",
+    "position": 3200,
+    "priority": 2
+  },
+  {
+    "patient": "Patient_C",
+    "variant": "NEW_VARIANT_X",
+    "position": 2100,
+    "priority": 1
+  },
+  {
+    "patient": "Patient_bulk_0",
+    "variant": "VAR_20_mut",
+    "position": 2500,
+    "priority": 3
+  },
+  {
+    "patient": "Patient_bulk_1",
+    "variant": "VAR_21_mut",
+    "position": 2550,
+    "priority": 4
+  },
+  {
+    "patient": "Patient_bulk_2",
+    "variant": "VAR_22_mut",
+    "position": 2600,
+    "priority": 5
+  },
+  {
+    "patient": "Patient_bulk_3",
+    "variant": "VAR_23_mut",
+    "position": 2650,
+    "priority": 6
+  },
+  {
+    "patient": "Patient_bulk_4",
+    "variant": "VAR_24_mut",
+    "position": 2700,
+    "priority": 7
+  },
+  {
+    "patient": "Patient_A",
+    "variant": "VAR_1_mut",
+    "position": 1500,
+    "priority": 1
+  },
+  {
+    "patient": "Patient_B",
+    "variant": "VAR_10_mut",
+    "position": 3200,
+    "priority": 2
+  },
+  {
+    "patient": "Patient_C",
+    "variant": "NEW_VARIANT_X",
+    "position": 2100,
+    "priority": 1
+  },
+  {
+    "patient": "Patient_bulk_0",
+    "variant": "VAR_20_mut",
+    "position": 2500,
+    "priority": 3
+  },
+  {
+    "patient": "Patient_bulk_1",
+    "variant": "VAR_21_mut",
+    "position": 2550,
+    "priority": 4
+  },
+  {
+    "patient": "Patient_bulk_2",
+    "variant": "VAR_22_mut",
+    "position": 2600,
+    "priority": 5
+  },
+  {
+    "patient": "Patient_bulk_3",
+    "variant": "VAR_23_mut",
+    "position": 2650,
+    "priority": 6
+  },
+  {
+    "patient": "Patient_bulk_4",
+    "variant": "VAR_24_mut",
+    "position": 2700,
+    "priority": 7
+  },
+  {
+    "patient": "Patient_A",
+    "variant": "VAR_1_mut",
+    "position": 1500,
+    "priority": 1
+  },
+  {
+    "patient": "Patient_B",
+    "variant": "VAR_10_mut",
+    "position": 3200,
+    "priority": 2
+  },
+  {
+    "patient": "Patient_C",
+    "variant": "NEW_VARIANT_X",
+    "position": 2100,
+    "priority": 1
+  },
+  {
+    "patient": "Patient_bulk_0",
+    "variant": "VAR_20_mut",
+    "position": 2500,
+    "priority": 3
+  },
+  {
+    "patient": "Patient_bulk_1",
+    "variant": "VAR_21_mut",
+    "position": 2550,
+    "priority": 4
+  },
+  {
+    "patient": "Patient_bulk_2",
+    "variant": "VAR_22_mut",
+    "position": 2600,
+    "priority": 5
+  },
+  {
+    "patient": "Patient_bulk_3",
+    "variant": "VAR_23_mut",
+    "position": 2650,
+    "priority": 6
+  },
+  {
+    "patient": "Patient_bulk_4",
+    "variant": "VAR_24_mut",
+    "position": 2700,
+    "priority": 7
+  }
+]
